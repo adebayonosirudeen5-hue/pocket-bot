@@ -9,3 +9,4 @@ requests
 newsapi-python
 finnhub-python
 alpha_vantage
+tensorflow
