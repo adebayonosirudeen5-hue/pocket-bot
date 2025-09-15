@@ -1,0 +1,11 @@
+streamlit
+python-telegram-bot
+numpy
+pandas
+torch
+scikit-learn
+matplotlib
+requests
+newsapi-python
+finnhub-python
+alpha_vantage
